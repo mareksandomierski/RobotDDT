@@ -1,0 +1,7 @@
+/libspecs/
+.project
+.idea
+/.pydevproject
+*.html
+*.png
+output.xml
